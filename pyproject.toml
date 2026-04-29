@@ -1,0 +1,29 @@
+[project]
+name = "intro-to-machinelearning"
+version = "0.1.0"
+description = "Intro to Machine Learning course materials"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # Core data science
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "scipy>=1.11",
+    # Visualization
+    "matplotlib>=3.7",
+    "seaborn>=0.12",
+    # Machine learning
+    "scikit-learn>=1.3",
+    "joblib>=1.3",
+    # Deep learning (Day 4)
+    "tensorflow>=2.15",
+    # Notebook & interactive widgets
+    "jupyterlab>=4.0",
+    "ipykernel>=6.0",
+    "ipywidgets>=8.0",
+    # Demo UIs
+    "gradio>=4.0",
+]
+
+[tool.uv]
+python = "3.11"
