@@ -42,6 +42,12 @@ We will look at Neural Networks (الشبكات العصبية), Deep Learning (
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatwan/intro_to_machinelearning/blob/main/Day_4/notebooks/02_generative_ai_overview.ipynb) [Generative AI Overview](https://colab.research.google.com/github/tatwan/intro_to_machinelearning/blob/main/Day_4/notebooks/02_generative_ai_overview.ipynb)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatwan/intro_to_machinelearning/blob/main/Day_4/notebooks/03_responsible_ai.ipynb) [Responsible AI & Ethics](https://colab.research.google.com/github/tatwan/intro_to_machinelearning/blob/main/Day_4/notebooks/03_responsible_ai.ipynb)
 
+### Final Assignment
+For students completing the course asynchronously, please complete the final assignment to earn your certificate of completion. This notebook covers an end-to-end coding exercise and conceptual questions from the lectures.
+
+**Assignment:**
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatwan/intro_to_machinelearning/blob/main/Assignment/Final_Assignment.ipynb) [Final Assignment](https://colab.research.google.com/github/tatwan/intro_to_machinelearning/blob/main/Assignment/Final_Assignment.ipynb)
+
 ---
 
 ## How to use this repository
